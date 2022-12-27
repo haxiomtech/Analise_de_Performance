@@ -19,3 +19,9 @@ Taxa Percentual de Crescimento Mensal = Faturamento Mensal / Faturamento Mensal 
 
 ![image](https://user-images.githubusercontent.com/119424591/209717283-f3175d9c-db92-4b7e-9794-b378150cbae8.png)
 
+### Indicador 3 - Clientes Ativos Por Mês em um País (Brasil)
+
+![image](https://user-images.githubusercontent.com/119424591/209719238-b8820802-7c59-4cdc-ab8d-e6a83e000ad5.png)
+
+![image](https://user-images.githubusercontent.com/119424591/209719416-d14c5aed-1041-477f-af1b-a3292da82cae.png)
+
