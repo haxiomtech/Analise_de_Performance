@@ -10,6 +10,10 @@ Faturamento = Quantidade * Valor_Unitario
 
 ![image](https://user-images.githubusercontent.com/119424591/209804268-6dc8291d-44fb-42e1-b304-5994f7d2c00c.png)
 
+- Em alguns destes meses houve o exercício de alguma campanha de marketing?
+- No decorrer do ano, vemos a sazonalidade ocorrendo ou há interferência de um outro fator interno? 
+- O faturamento aumentou no mes 11 do ano de 2011 por conta da blackfriday?
+
 Obs.: Não há dados suficientes no mês 12 de 2011 e, todas os indicadores que a contiver, seguirão esta mesma cláusula.
 
 ### Indicador 2 - Taxa Percentual de Crescimento Mensal
@@ -21,6 +25,8 @@ Taxa Percentual de Crescimento Mensal = Faturamento Mensal / Faturamento Mensal 
 
 ![image](https://user-images.githubusercontent.com/119424591/209804950-f84856b8-f813-415f-b7c5-5df7c3d6d245.png)
 
+- Aumento gradual no meses de 9,10 e 11?
+
 ### Indicador 4 - Total de Itens Comprados Por Mês em um País (Brasil)
 
 ![image](https://user-images.githubusercontent.com/119424591/209805217-f5da2f3a-3632-4f50-bfd3-869ae16cf32b.png)
@@ -28,6 +34,8 @@ Taxa Percentual de Crescimento Mensal = Faturamento Mensal / Faturamento Mensal 
 ### Indicador 5 - Faturamento Médio Mensal em um País (Brasil)
 
 ![image](https://user-images.githubusercontent.com/119424591/209742277-a9007b92-d104-4163-bc37-b9f006de49c1.png)
+
+- Em comparação com outros meses, houve o mesmo faturamento para o mês de novembro. Se novembro recebeu um maior número de clientes, o faturamento médio deveria ser maior. Portanto, infere-se que este mês houve muitas promoções fazendo com que o faturamento médio estabilizasse em comparação com os demais meses do ano.
 
 ### Indicador 6 - Diferença de Faturamento ao Longo do Tempo Entre Clientes Novos e Antigos¶
 
