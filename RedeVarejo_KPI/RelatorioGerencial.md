@@ -41,6 +41,9 @@ Taxa Percentual de Crescimento Mensal = Faturamento Mensal / Faturamento Mensal 
 
 ![image](https://user-images.githubusercontent.com/119424591/209745637-00231dce-4a19-4e38-a652-a1751c061cff.png)
 
+- Demonstração do grau de importância em relação ao faturamento e clientes antigos.
+- Deve-se abrir uma campanha para aumentar o faturamento dos clientes novos ou para manter os antigos?
+
 ### Indicador 7 - Taxa de Novos Clientes
 
 ![image](https://user-images.githubusercontent.com/119424591/209745665-1ea23bf8-fb95-4f3e-b5e7-58fab64a8c38.png)
