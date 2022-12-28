@@ -20,9 +20,7 @@ Taxa Percentual de Crescimento Mensal = Faturamento Mensal / Faturamento Mensal 
 
 ### Indicador 4 - Total de Itens Comprados Por Mês em um País (Brasil)
 
-![image](https://user-images.githubusercontent.com/119424591/209721207-1c2d7856-0a96-4b22-a742-533548a78027.png)
-
-![image](https://user-images.githubusercontent.com/119424591/209721153-37b3b5fa-1a20-46d5-a78e-ea3ab0627d09.png)
+![image](https://user-images.githubusercontent.com/119424591/209805217-f5da2f3a-3632-4f50-bfd3-869ae16cf32b.png)
 
 ### Indicador 5 - Faturamento Médio Mensal em um País (Brasil)
 
