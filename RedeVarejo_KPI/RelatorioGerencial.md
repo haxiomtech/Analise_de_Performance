@@ -7,23 +7,16 @@
 ### Indicador 1 - Faturamento Mensal
 Faturamento = Quantidade * Valor_Unitario
 
-![image](https://user-images.githubusercontent.com/119424591/209714380-dcf8a8fc-82ed-4324-90af-f23269b4b727.png)
-
-![image](https://user-images.githubusercontent.com/119424591/209714144-f17b9605-a997-4db7-a484-43d9ec6c951c.png)
+![image](https://user-images.githubusercontent.com/119424591/209804268-6dc8291d-44fb-42e1-b304-5994f7d2c00c.png)
 
 ### Indicador 2 - Taxa Percentual de Crescimento Mensal
 Taxa Percentual de Crescimento Mensal = Faturamento Mensal / Faturamento Mensal Anterior * 100
 
-
-![image](https://user-images.githubusercontent.com/119424591/209717507-aab49b1f-02e1-48bf-8af7-d48899c3b994.png)
-
-![image](https://user-images.githubusercontent.com/119424591/209717283-f3175d9c-db92-4b7e-9794-b378150cbae8.png)
+![image](https://user-images.githubusercontent.com/119424591/209804583-ad971514-3ca0-40ef-b315-f3a3c793c42a.png)
 
 ### Indicador 3 - Clientes Ativos Por Mês em um País (Brasil)
 
-![image](https://user-images.githubusercontent.com/119424591/209719238-b8820802-7c59-4cdc-ab8d-e6a83e000ad5.png)
-
-![image](https://user-images.githubusercontent.com/119424591/209719416-d14c5aed-1041-477f-af1b-a3292da82cae.png)
+![image](https://user-images.githubusercontent.com/119424591/209804950-f84856b8-f813-415f-b7c5-5df7c3d6d245.png)
 
 ### Indicador 4 - Total de Itens Comprados Por Mês em um País (Brasil)
 
