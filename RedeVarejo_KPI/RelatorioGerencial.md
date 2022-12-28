@@ -25,3 +25,30 @@ Taxa Percentual de Crescimento Mensal = Faturamento Mensal / Faturamento Mensal 
 
 ![image](https://user-images.githubusercontent.com/119424591/209719416-d14c5aed-1041-477f-af1b-a3292da82cae.png)
 
+### Indicador 4 - Total de Itens Comprados Por Mês em um País (Brasil)
+
+![image](https://user-images.githubusercontent.com/119424591/209721207-1c2d7856-0a96-4b22-a742-533548a78027.png)
+
+![image](https://user-images.githubusercontent.com/119424591/209721153-37b3b5fa-1a20-46d5-a78e-ea3ab0627d09.png)
+
+### Indicador 5 - Faturamento Médio Mensal em um País (Brasil)
+
+![image](https://user-images.githubusercontent.com/119424591/209742277-a9007b92-d104-4163-bc37-b9f006de49c1.png)
+
+### Indicador 6 - Diferença de Faturamento ao Longo do Tempo Entre Clientes Novos e Antigos¶
+
+![image](https://user-images.githubusercontent.com/119424591/209745637-00231dce-4a19-4e38-a652-a1751c061cff.png)
+
+### Indicador 7 - Taxa de Novos Clientes
+
+![image](https://user-images.githubusercontent.com/119424591/209745665-1ea23bf8-fb95-4f3e-b5e7-58fab64a8c38.png)
+
+ 
+### Indicador 8 - Taxa Mensal de Retenção de Clientes
+
+![image](https://user-images.githubusercontent.com/119424591/209746133-c54f0ab3-a7bc-434c-93e7-8ae999d35351.png)
+
+![image](https://user-images.githubusercontent.com/119424591/209746162-c24aacee-dc59-415c-89a7-62d1f618b97b.png)
+
+
+
