@@ -1,5 +1,6 @@
 ## Quais efeitos surtiram após implementação das campanhas de marketing?
 
+Visualização das primeiras linhas dos dados.
 
 ![image](https://user-images.githubusercontent.com/119424591/209713765-1242e437-1965-48a6-864c-a8fd7d52a6be.png)
 
@@ -8,6 +9,8 @@
 Faturamento = Quantidade * Valor_Unitario
 
 ![image](https://user-images.githubusercontent.com/119424591/209804268-6dc8291d-44fb-42e1-b304-5994f7d2c00c.png)
+
+Obs.: Não há dados suficientes no mês 12 de 2011 e, todas os indicadores que a contiver, seguirão esta mesma cláusula.
 
 ### Indicador 2 - Taxa Percentual de Crescimento Mensal
 Taxa Percentual de Crescimento Mensal = Faturamento Mensal / Faturamento Mensal Anterior * 100
