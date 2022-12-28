@@ -48,9 +48,12 @@ Taxa Percentual de Crescimento Mensal = Faturamento Mensal / Faturamento Mensal 
 
 ![image](https://user-images.githubusercontent.com/119424591/209745665-1ea23bf8-fb95-4f3e-b5e7-58fab64a8c38.png)
 
+- Declínio visível de novos clientes ao longo do ano.
+- Criar campanha para homogeneizar todos os meses?
  
 ### Indicador 8 - Taxa Mensal de Retenção de Clientes
 
 ![image](https://user-images.githubusercontent.com/119424591/209805471-08129dfc-a036-4932-9ccb-80edd2fc4534.png)
 
+- Qual é a frequência de compra dos meus clientes?
 
