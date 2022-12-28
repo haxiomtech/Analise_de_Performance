@@ -35,7 +35,7 @@ Taxa Percentual de Crescimento Mensal = Faturamento Mensal / Faturamento Mensal 
 
 ![image](https://user-images.githubusercontent.com/119424591/209742277-a9007b92-d104-4163-bc37-b9f006de49c1.png)
 
-- Em comparação com outros meses, houve o mesmo faturamento para o mês de novembro. Se novembro recebeu um maior número de clientes, o faturamento médio deveria ser maior. Portanto, infere-se que este mês houve muitas promoções fazendo com que o faturamento médio estabilizasse em comparação com os demais meses do ano.
+- Em comparação com outros meses, houve o mesmo faturamento para o mês de novembro. Se novembro recebeu um maior número de compras, o faturamento médio deveria ser maior. Portanto, infere-se que este mês houve muitas promoções fazendo com que o faturamento médio estabilizasse em comparação com os demais meses do ano.
 
 ### Indicador 6 - Diferença de Faturamento ao Longo do Tempo Entre Clientes Novos e Antigos¶
 
